@@ -470,4 +470,4 @@ Computer Science | Blockchain Developer | Data Science | Machine Learning
 
 GitHub
 
-https://github.com/<username>
+https://github.com/admuad
