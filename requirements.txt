@@ -1,0 +1,6 @@
+requests
+tqdm
+unlzw3
+aiohttp
+aiofiles
+rich
